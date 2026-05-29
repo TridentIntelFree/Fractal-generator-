@@ -2,7 +2,7 @@
 
 A self-contained, mobile-first fractal generator that runs entirely in the browser. Open it and it renders immediately — no build step, no server, no dependencies beyond two web fonts.
 
-**Live:** `https://<your-username>.github.io/<repo-name>/`
+**Live:** (https://tridentintelfree.github.io/TridentIntelFree/)
 
 ## Features
 
